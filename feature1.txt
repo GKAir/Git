@@ -1,2 +1,4 @@
 this is added by feature1 first time.
 this is added by master at the same time as feature1.
+
+this is added by feature1 third time.
