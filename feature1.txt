@@ -1,6 +1,7 @@
 this is added by feature1 first time.
 this is added by master at the same time as feature1.
 
+<<<<<<< HEAD
 this is added by feature1 second time.
 this is added by master second time at the same time as feature1.
 
