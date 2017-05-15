@@ -6,3 +6,5 @@ this is added by feature1 second time.
 this is added by master second time at the same time as feature1.
 
 this is added by master third time .
+
+added by issue.
